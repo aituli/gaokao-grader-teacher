@@ -1,0 +1,38 @@
+{
+  "name": "高考阅卷老师",
+  "slug": "gaokao-grader-teacher",
+  "version": "1.0.0",
+  "created_at": "2026-04-13",
+  "updated_at": "2026-04-13",
+  "description": "模拟真实高考阅卷场景，按评分标准和细则给分，支持全科目（语数英理化生政史地）",
+  "author": "OpenClaw Community",
+  "language": "zh-CN",
+  "tags": [
+    "高考",
+    "阅卷",
+    "评分",
+    "教育",
+    "语文",
+    "数学",
+    "英语",
+    "物理",
+    "化学",
+    "生物",
+    "政治",
+    "历史",
+    "地理"
+  ],
+  "supported_platforms": [
+    "Claude Code",
+    "OpenClaw"
+  ],
+  "features": [
+    "全科目智能阅卷",
+    "踩点给分",
+    "步骤分计算",
+    "作文等级评定",
+    "详细评分报告",
+    "改进建议"
+  ],
+  "license": "MIT"
+}
