@@ -182,14 +182,29 @@ AI：
 
 ```
 gaokao-grader-teacher/
-├── SKILL.md              # Skill 主文件（元数据和核心规则）
-├── README.md             # 使用说明
-├── prompts/
-│   └── grading_prompts.md # 评分提示模板
-└── docs/
-    ├── scoring_criteria.md # 详细评分标准
-    └── faq.md             # 常见问题
+├── SKILL.md                   # Skill 主文件（元数据和核心规则）
+├── meta.json                  # 元数据文件
+├── README.md                  # 使用说明
+├── README_ZH.md               # 中文项目介绍
+├── INSTALL.md                 # 安装指南
+├── docs/
+│   ├── scoring_criteria.md    # 详细评分标准
+│   ├── faq.md                 # 常见问题
+│   ├── image_grading.md       # 图片阅卷使用指南
+│   └── question_design_analysis.md  # 试题命题设计分析
+├── examples/                  # 使用示例
+│   ├── math_example.md
+│   ├── chinese_example.md
+│   ├── english_example.md
+│   └── physics_example.md
+└── prompts/
+    └── grading_prompts.md     # 评分提示模板
 ```
+
+### 特色文档
+
+- **[docs/image_grading.md](docs/image_grading.md)** - 图片阅卷完整指南
+- **[docs/question_design_analysis.md](docs/question_design_analysis.md)** - 从出题者角度分析试题设计
 
 ## 评分原则
 
