@@ -243,7 +243,7 @@ gaokao-grader-teacher/
 
 ## 作者
 
-OpenClaw Team
+aituli
 
 ---
 

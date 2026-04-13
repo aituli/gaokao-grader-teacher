@@ -5,7 +5,7 @@
   "created_at": "2026-04-13",
   "updated_at": "2026-04-13",
   "description": "模拟真实高考阅卷场景，支持图片上传自动识别，按评分标准和细则给分，支持全科目（语数英理化生政史地）",
-  "author": "OpenClaw Community",
+  "author": "aituli",
   "language": "zh-CN",
   "tags": [
     "高考",
